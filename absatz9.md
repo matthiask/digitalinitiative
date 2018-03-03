@@ -2,7 +2,7 @@
 
 ---
 
-Öffentlich (mit-)finanazierte Medien haben vier Gebote zu erfüllen:
+Öffentlich (mit-)finanzierte Medien haben vier Gebote zu erfüllen:
 
 1. Journalistische Sorgfaltspflicht (Sachgerechtigkeit, Vielfalt der Ansichten etc.)
 2. Verpflichtung gegen Hate-Speech
