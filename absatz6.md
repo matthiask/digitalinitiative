@@ -1,4 +1,4 @@
-Im Sinne einer digitalen Allmend und eines souveränen Medienplatzes Schweiz kooperiert das nationale Medienhaus mit anderen Medienunternehmen welche die Erklärung der Pflichten und Rechte der Journalistinnen und Journalisten des Schweizer Presserats mittragen. Es stellt seine digitale Technologie und die selbst produzierten Inhalte unentgeltlich zur Verfügung, soweit es alle Urheber- und Weitergaberechte hat. Das nationale Medienhaus sichert den anderen Medien den kostenlosen Zugang zu seinen digitalen Plattformen mit starker Reichweite.
+Im Sinne einer digitalen Allmend und eines souveränen Medienplatzes Schweiz kooperiert das nationale Medienhaus mit anderen Medienunternehmen, welche die Erklärung der Pflichten und Rechte der Journalistinnen und Journalisten des Schweizer Presserats mittragen. Es stellt seine digitale Technologie und die selbst produzierten Inhalte unentgeltlich zur Verfügung, soweit es alle Urheber- und Weitergaberechte hat. Das nationale Medienhaus sichert den anderen Medien den kostenlosen Zugang zu seinen digitalen Plattformen mit starker Reichweite.
 
 ---
 
