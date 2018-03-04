@@ -2,5 +2,5 @@ Die Gesetzgebung über Internet-Medien, soziale Medien, Radio, Fernsehen, Comput
 
 ---
 
-1. Die Gesetzgebungskompetenz im digitalen Zeitalter für muss für **alle elektronischen Medien** beim Bund liegen.
+1. Die Gesetzgebungskompetenz im digitalen Zeitalter muss für **alle elektronischen Medien** beim Bund liegen.
 2. Es braucht einen Auftrag für einen **eigenständigen und vielfältigen Medienplatz** Schweiz
